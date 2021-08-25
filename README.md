@@ -7,7 +7,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssaa&layout=compact&langs_count=7&theme=material-palenight&title_color=F0D0FF&"/>
   </div>
   <div align="center">
-    <img  height="180em"  src="https://i.pinimg.com/originals/36/43/d9/3643d95111cf3c34f983f6e006e5f9c5.gif">
+<!--     <img  height="180em"  src="https://i.pinimg.com/originals/36/43/d9/3643d95111cf3c34f983f6e006e5f9c5.gif"> -->
   </div>
   <div align="center">
   <img height="30em" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
