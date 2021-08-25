@@ -10,8 +10,8 @@
     <img  height="180em"  src="https://i.pinimg.com/originals/84/10/38/8410382ab79ad788c2416f1b4373ffcb.gif">
   </div>
   <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/layssa-lima"/><img height="30em" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
-  <img height="30em" src="https://image.flaticon.com/icons/png/512/1384/1384874.png" />
+ <img height="30em" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
+   <a target="_blank" href="https://www.linkedin.com/in/layssa-lima"/><img height="30em" src="https://image.flaticon.com/icons/png/512/1384/1384874.png" /></a>
   </div>
  
 <!--   </div> -->
