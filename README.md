@@ -10,8 +10,12 @@
     <img  height="180em"  src="https://i.pinimg.com/originals/84/10/38/8410382ab79ad788c2416f1b4373ffcb.gif">
   </div>
   <div align="center">
- <img height="30em" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
-   <a rel="noreferrer noopener" href="https://www.linkedin.com/in/layssa-lima" target="_blank"/><img height="30em" src="https://image.flaticon.com/icons/png/512/1384/1384874.png" /></a>
+  <a href="https://www.instagram.com/layssaa_lay/" target="_blank"> 
+         <img height="30em" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /> 
+  </a>
+   <a rel="noreferrer noopener" href="https://www.linkedin.com/in/layssa-lima" target="_blank"/>
+         <img height="30em" src="https://image.flaticon.com/icons/png/512/1384/1384874.png" />
+  </a>
   </div>
                                       <!--  Quantidade de visitas  -->
 <!--   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" /></p> -->
