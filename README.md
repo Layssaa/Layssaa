@@ -7,9 +7,12 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=layssaa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&title_color=F0D0FF&"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssaa&layout=compact&langs_count=7&theme=material-palenight&title_color=F0D0FF&"/>
   </div>
+<!--   <h2 align="center"> Projects </h2> -->
+  
   <div align="center">
     <img  height="180em"  src="https://i.pinimg.com/originals/84/10/38/8410382ab79ad788c2416f1b4373ffcb.gif">
   </div>
+  
   <div align="center">
     <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
          <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
