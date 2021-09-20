@@ -13,9 +13,9 @@
   </div>
 <!--   <h2 align="center"> Projects </h2> -->
   
-
+  <hr/>
   
-  <div align="center">
+  <div >
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -27,7 +27,7 @@
   <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" />
 
   </div>
-  <hr/>
+
   
                                      
 <!--   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" /></p> -->
