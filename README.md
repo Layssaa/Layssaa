@@ -34,8 +34,8 @@
  
 <!--   </div> -->
 
-  ![Snake animation](https://github.com/Layssaa/Layssaa/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/Layssaa/Layssaa/blob/output/github-contribution-grid-snake.svg) -->
+  <br/>
   
-  
-<!--    <img  height="180em"  src="https://i.pinimg.com/originals/ab/75/e4/ab75e424c166d6795d2a18eec725047b.gif"> -->
+   <img  height="220vw"  src="https://miro.medium.com/max/1200/1*tIfSBv00rHWtBHKKp3QOXg.gif">
 
