@@ -38,5 +38,5 @@
   <br/>
   
 <!--    <img  height="220vw"  src="https://miro.medium.com/max/1200/1*tIfSBv00rHWtBHKKp3QOXg.gif"> -->
-<img height="280vw" src="https://thumbs.gfycat.com/FemaleLimitedEland-size_restricted.gif" />
+<img height="300vw" src="https://thumbs.gfycat.com/FemaleLimitedEland-size_restricted.gif" />
 
