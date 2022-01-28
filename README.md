@@ -4,7 +4,7 @@
 <!--     <img  height="180em"  src="http://pa1.narvii.com/6729/c90197d964d2107f7a57186687986dfd9f34f7c3_00.gif"> -->
 
 
- -🎬 I'm working on a movie rental API [ see application ](https://movie-on.netlify.app/) or [see code](https://github.com/Layssaa/movie-on).
+ -🎬 Movie rental API [ see application ](https://movie-on.netlify.app/) or [see code](https://github.com/Layssaa/movie-on).
 
 
 
