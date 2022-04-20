@@ -4,10 +4,6 @@
 <!--     <img  height="180em"  src="http://pa1.narvii.com/6729/c90197d964d2107f7a57186687986dfd9f34f7c3_00.gif"> -->
 
 
- -🎬 Movie rental API [ see application ](https://movie-on.netlify.app/) or [see code](https://github.com/Layssaa/movie-on).
-
-
-
   <div display="flex" justify-content="space-evenly">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=layssaa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&title_color=F0D0FF&"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssaa&layout=compact&langs_count=7&theme=material-palenight&title_color=F0D0FF&"/>
