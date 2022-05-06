@@ -23,7 +23,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   </div>
-[link](https://www.youtube.com/watch?v=Ub_NI1lCrdA)
   <br/>
   
   <img height="275vw" src="https://thumbs.gfycat.com/FemaleLimitedEland-size_restricted.gif" />
