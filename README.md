@@ -2,7 +2,7 @@
   <h1 align="center" >Code is a superpower.</h1>
 <ul>
     <li>Desenvolvedora Web.  👩‍💻</li>
-    <li>Javascript, Typescript, ReactJS. 💻</li>
+    <li>Javascript, Typescript, ReactJS, NodeJS. 💻</li>
     <li>Estagiária SRE. ☁️</li>
     <li>Estudante de engenharia elétrica. ⚡</li>
 </ul>
