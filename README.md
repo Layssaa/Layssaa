@@ -5,6 +5,8 @@
     <li>Javascript, Typescript, ReactJS, NodeJS. 💻</li>
     <li>Estagiária SRE. ☁️</li>
     <li>Estudante de engenharia elétrica. ⚡</li>
+    <li>Aprendendo AWS ☁️</li>
+  
 </ul>
   <div display="flex" justify-content="space-evenly">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=layssaa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&title_color=F0D0FF&"/>
