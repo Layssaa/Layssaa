@@ -6,6 +6,8 @@
     <li>Estagiária Back-end. ☁️</li>
     <li>Estudante de engenharia elétrica. ⚡</li>
     <li>Aprendendo AWS ☁️</li>
+    <li> Disponível para ajudar quem está iniciando na programação.</li>
+   
   
 </ul>
   <div display="flex" justify-content="space-evenly">
