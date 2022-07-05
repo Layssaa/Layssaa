@@ -1,13 +1,12 @@
 <br/> 
   <h1 align="center" >Code is a superpower.</h1>
 <ul>
+    <li> Disponível para ajudar quem está iniciando na programação.</li>
     <li>Desenvolvedora Web.  👩‍💻</li>
     <li>Javascript, Typescript, ReactJS, NodeJS. 💻</li>
     <li>Estagiária Back-end. ☁️</li>
     <li>Estudante de engenharia elétrica. ⚡</li>
     <li>Aprendendo AWS ☁️</li>
-    <li> Disponível para ajudar quem está iniciando na programação.</li>
-   
   
 </ul>
   <div display="flex" justify-content="space-evenly">
