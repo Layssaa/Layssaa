@@ -3,7 +3,7 @@
 <ul>
     <li>Desenvolvedora Web.  👩‍💻</li>
     <li>Javascript, Typescript, ReactJS, NodeJS. 💻</li>
-    <li>Estagiária SRE. ☁️</li>
+    <li>Estagiária Back-end. ☁️</li>
     <li>Estudante de engenharia elétrica. ⚡</li>
     <li>Aprendendo AWS ☁️</li>
   
