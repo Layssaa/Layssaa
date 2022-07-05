@@ -1,7 +1,8 @@
 <br/> 
   <h1 align="center" >Code is a superpower.</h1>
 <ul>
-    <li> Disponível para ajudar quem está iniciando na programação.</li>
+    <li> Disponível para ajudar quem está iniciando na programação.[Me envie um e-mail](mailto:layssadev@gmail.com)
+</li>
     <li>Desenvolvedora Web.  👩‍💻</li>
     <li>Javascript, Typescript, ReactJS, NodeJS. 💻</li>
     <li>Estagiária Back-end. ☁️</li>
