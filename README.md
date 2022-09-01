@@ -4,7 +4,6 @@
   <li> Disponível para ajudar quem está iniciando na programação.<a href="mailto:layssadev@gmail.com"> Me envie um email 👩‍💻</a></li>
     <li>Desenvolvedora Web.  👩‍💻</li>
     <li>Javascript, Typescript, ReactJS, NodeJS. 💻</li>
-    <li>Estagiária Back-end. ☁️</li>
     <li>Estudante de engenharia elétrica. ⚡</li>
     <li>Aprendendo AWS ☁️</li>
   
