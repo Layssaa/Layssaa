@@ -32,5 +32,6 @@
   </div>
   <br/>
   
-  <img height="275vw" src="https://thumbs.gfycat.com/FemaleLimitedEland-size_restricted.gif" />
+  <!--<img height="275vw" src="https://thumbs.gfycat.com/FemaleLimitedEland-size_restricted.gif" />-->
+  <img height="275vw"  src="https://live.staticflickr.com/65535/52411116853_eddb2b65bf_k.jpg" />
 
