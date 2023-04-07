@@ -3,7 +3,7 @@
 <ul>
   <li> Disponível para ajudar quem está iniciando na programação.<a href="mailto:layssadev@gmail.com"> Me envie um email 👩‍💻</a></li>
     <li>Desenvolvedora Web.  👩‍💻</li>
-    <li>Te conto algumas coisas [aqui]([url](https://dev.to/layssadev)).  👩‍💻</li>
+  <li>Te conto algumas coisas <a href="https://dev.to/layssadev"> aqui </a>.  👩‍💻</li>
     <li>Javascript, Typescript, ReactJS, NodeJS. 💻</li>
     <li>Estudante de engenharia elétrica. ⚡</li>
     <li>Aprendendo AWS ☁️</li>
