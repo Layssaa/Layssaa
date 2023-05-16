@@ -1,6 +1,8 @@
 <br/> 
   <h1 align="center" >Code is a superpower.</h1>
 <ul>
+<p> Hello, my name is Layssa. I'm currently working as a software developer while pursuing a degree in electrical engineering. I have a deep passion for music, art, and all things geek-related. Looking ahead, my ultimate goal is to become an AI engineer and specialize in robotics for healthcare applications </p>
+
   <li> Disponível para ajudar quem está iniciando na programação.<a href="mailto:layssadev@gmail.com"> Me envie um email 👩‍💻</a></li>
     <li>Desenvolvedora Web.  👩‍💻</li>
   <li>Te conto algumas coisas <a target="_blank" href="https://dev.to/layssadev"> aqui </a>.  👩‍💻</li>
