@@ -2,6 +2,7 @@
   <h1 align="center" >Code is a superpower.</h1>
 <ul>
 Hello, I'm Layssa! 🖖
+  
 I'm currently working as a software developer while studying electrical engineering. 👩‍💻⚡
 
 I have a deep passion for music, art and all things related to the geek, technology and astronomy. 🌌 
