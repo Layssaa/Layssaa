@@ -41,7 +41,5 @@ My career goals are to become an electrical engineer and specialize in robotics 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   </div>
   <br/>
-  
-  <!--<img height="275vw" src="https://thumbs.gfycat.com/FemaleLimitedEland-size_restricted.gif" />-->
-  <img height="310vw"  src="https://live.staticflickr.com/65535/52411116853_eddb2b65bf_k.jpg" />
+
 
