@@ -1,14 +1,11 @@
 <br/> 
   <h1 align="center" >Code is a superpower.</h1>
 <ul>
-Hello, I'm Layssa! 🖖
-
+Hello, I'm Layssa! 🖖  
   
-I'm currently working as a software developer while studying electrical engineering. 👩‍💻⚡
+I'm a software developer with about 3 years of experience.👩‍💻
 
 I have a deep passion for music, art and all things related to the geek, technology and astronomy. 🌌 
-
-My career goals are to become an electrical engineer and specialize in robotics and AI for healthcare applications. 🦾🤖
 
   <li> Disponível para ajudar quem está iniciando na programação.<a href="mailto:layssadev@gmail.com"> Me envie um email 👩‍💻</a></li>
     <li>Desenvolvedora Web.  👩‍💻</li>
