@@ -3,7 +3,7 @@
 <ul>
 
 ### Hello, I'm Layssa! 🖖  
-Fullstack Developer 👩‍💻
+> Fullstack Developer 👩‍💻
 
 </br>
 
