@@ -1,18 +1,40 @@
 <br/> 
   <h1 align="center" >Code is a superpower.</h1>
 <ul>
-Hello, I'm Layssa! 🖖  
-  
-I'm a software developer with about 3 years of experience.👩‍💻
 
+### Hello, I'm Layssa! 🖖  
+Fullstack Developer 👩‍💻
+
+</br>
+
+I have been a software developer for 3 years, with experience in fintechs, streaming and e-commerce platforms. 👩‍💻
+  
 I have a deep passion for music, art and all things related to the geek, technology and astronomy. 🌌 
 
-  <li> Disponível para ajudar quem está iniciando na programação.<a href="mailto:layssadev@gmail.com"> Me envie um email 👩‍💻</a></li>
-    <li>Desenvolvedora Web.  👩‍💻</li>
-  <li>Te conto algumas coisas <a target="_blank" href="https://dev.to/layssadev"> aqui </a>.  👩‍💻</li>
+My main stacks are Javascript/Typescript, React, Next, Node.JS.
+
+### Hard Skills:
+
+ #### Backend
+
+ - NodeJS
+ - Laravel
+ - Database: PostgreSQL, MongoDB, Redis
+
+ #### Frontend
+
+ - ReactJS
+ - NextJS
+ - Tailwind
+ - Styled Components
+</br>
+
+
+Available to help those starting out in programming, <a href="mailto:layssadev@gmail.com"> send me an email 👩‍💻</a></li>
+
+
+  <li> <a target="_blank" href="https://dev.to/layssadev"> My Blog </a>  👩‍💻</li>
     <li>Javascript, Typescript, ReactJS, NodeJS. 💻</li>
-    <li>Estudante de engenharia elétrica. ⚡</li>
-    <li>Aprendendo AWS ☁️</li>
   
 </ul>
 <!--  <div display="flex" justify-content="space-evenly">
