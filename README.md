@@ -2,31 +2,32 @@
   <h1 align="center" >Code is a superpower.</h1>
 <ul>
 
-### Hello, I'm Layssa! 🖖  
-> Fullstack Developer 👩‍💻
 
+# 🖖 Hello, I'm Layssa!   
+> Fullstack Developer 👩‍💻
+> 
 </br>
 
-I have been a software developer for 3 years, with experience in fintechs, streaming and e-commerce platforms. 👩‍💻
-  
-I have a deep passion for music, art and all things related to the geek, technology and astronomy. 🌌 
+## 🌟 Sobre
 
-My main stacks are Javascript/Typescript, React, Next, Node.JS.
+I'm a Full Stack Developer with experience in streaming and fintechs companies as well virtual learning platforms. I work with front-end technologies such as React.js, Next.js, TypeScript, and Tailwind, as well as back-end development using Node.js and Prisma and database relational(PostgreSQL) and non relational (Mongo).
 
-### Hard Skills:
+## 📝 Information
 
- #### Backend
+- 💻 **Stack:** Next, Node, Typescript, PostgreSQL, MongoDB, Redis.
+- 📚 **Current Learning:** Rust   
+- 🎓 **Education:** Análise  e desenvolvimento de sistemas - Cursando   
 
- - NodeJS
- - Laravel
- - Database: PostgreSQL, MongoDB, Redis
+## 😎 Curiosidades sobre Mim
 
- #### Frontend
+<!-- Coloque alguma curiosidade pra mostrar que você não é só código 
 
- - ReactJS
- - NextJS
- - Tailwind
- - Styled Components
+- 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos. 
+- 💡 Comecei a programar em **[Ano]** e, desde então, venho me desafiando e aprendendo coisas novas.   
+- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.   
+- 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.   
+-->
+
 </br>
 
 
